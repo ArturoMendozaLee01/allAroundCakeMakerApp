@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">allAroundCakeMakerApp</string>
+
+    <string name="OnBoarding">OnBoarding</string>
+    <string name="Splash">Splash</string>
+
+    <string name="page1_title">¡Hola!</string>
+    <string name="page1_message">Que alegría verte por aquí, en All Around Cake Maker, la mejor pastelería de la ciudad.</string>
+
+    <string name="page2_title">¡Bienvenido!</string>
+    <string name="page2_message">Aquí encontrarás los mejores cupcakes de todo el mundo mundial, ¡y mucho más!.</string>
+
+    <string name="page3_title">¡Comencémos!</string>
+    <string name="page3_message">¡Manos a la obra! Descubre los cupcakes más deliciosos y sorprende a tus seres queridos.</string>
+
+</resources>
