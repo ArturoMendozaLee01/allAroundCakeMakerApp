@@ -11,6 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.ebc.allaroundcakemakerapp.navigation.NavManager
 import com.ebc.allaroundcakemakerapp.ui.theme.AllAroundCakeMakerAppTheme
 import com.ebc.allaroundcakemakerapp.views.onboarding.cupcakewizzard.SplashScreen
 
@@ -25,6 +26,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     //SplashScreen()
+                    NavManager()
                 }
             }
         }

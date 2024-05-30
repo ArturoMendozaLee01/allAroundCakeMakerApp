@@ -5,5 +5,6 @@ import com.ebc.allaroundcakemakerapp.R
 
 enum class ScreensId (@StringRes val title: Int) {
     Splash(title = R.string.Splash),
-    OnBoarding(title = R.string.OnBoarding)
+    OnBoarding(title = R.string.OnBoarding),
+    Home (title= R.string.Home)
 }

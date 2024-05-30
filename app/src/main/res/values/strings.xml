@@ -13,4 +13,8 @@
     <string name="page3_title">¡Comencémos!</string>
     <string name="page3_message">¡Manos a la obra! Descubre los cupcakes más deliciosos y sorprende a tus seres queridos.</string>
 
+    <string name="Home">Home</string>
+
+    <string name="back_button">Back</string>
+
 </resources>
